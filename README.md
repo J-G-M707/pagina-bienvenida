@@ -1,2 +1,3 @@
-# pagina-bienvenida
-Página de bienvenida de mi proyecto personal
+# Bienvenido a mi repositorio 🚀
+Este es mi primer proyecto en GitHub.
+## 👤 Jorge Guirao Martinez
